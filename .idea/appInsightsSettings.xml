@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.realtimedb" />
+                  <option name="mobileSdkAppId" value="1:374076499505:android:b4a8490d27065c1e3a1710" />
+                  <option name="projectId" value="realtimedatabaseexample-528e0" />
+                  <option name="projectNumber" value="374076499505" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
